@@ -1,15 +1,11 @@
 <p align="center">
-    <h2>🏄‍♂️ Fahmi Fiqih</h2>
-</p>
-
-<p align="center">
-  <h3 align="center">⌨️ 🏄‍♂️ Fahmi Fiqih Mas </h3>
+  <h3 align="center"> 🏄‍♂️ Fahmi Fiqih Mas </h3>
 </p>
 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Enginner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Enginner" alt="Typing SVG" /></a>
 </p>
 ---
 
