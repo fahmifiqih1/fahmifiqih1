@@ -5,12 +5,9 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Enginner" alt="Typing SVG" /></a></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=380&lines=Hello+Everyone%2C+Welcome+To+The+My+Github;I'm+Devops+Engineering+in+1+Experiance" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
 ---
 
 ### 🧰 Languages and Tools
