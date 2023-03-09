@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ 🏄‍♂️ Fahmi Fiqih Mas </h3>
 </p>
 
 
