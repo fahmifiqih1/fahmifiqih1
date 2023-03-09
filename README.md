@@ -2,7 +2,10 @@
     <h2>🏄‍♂️ Fahmi Fiqih</h2>
 </p>
 
-<p class="center">Center this text!</p>
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
