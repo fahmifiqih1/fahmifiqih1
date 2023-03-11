@@ -32,7 +32,7 @@
 <br />
 <br /><br />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+#
 
 ### 📊 Stats
 
