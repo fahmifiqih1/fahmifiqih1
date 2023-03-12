@@ -44,4 +44,4 @@
 
 <details>
  <summary><h3>👨‍💻 Fahmi Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. 
+   I am a graduate of computer science at a university, which at that time I was not interested in, but I tried to dare to be in that place, as time went on I was more and more happy with things that touch computers, after graduating from my university I got a job with rules devops engineer, I'm starting to like this even with the rules backend engineer, so I'm trying to deepen this rules section, in this repository which is public. I hope this helps what can I share publicly.
