@@ -12,8 +12,7 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="GoogleCloud" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -44,4 +43,4 @@
 
 <details>
  <summary><h3>👨‍💻 Fahmi Journey</h3></summary>
-   I am a graduate of computer science at a university, which at that time I was not interested in, but I tried to dare to be in that place, as time went on I was more and more happy with things that touch computers, after graduating from my university I got a job with rules devops engineer, I'm starting to like this even with the rules backend engineer, so I'm trying to deepen this rules section, in this repository which is public. I hope this helps what can I share publicly.
+   I'm DevSecOps engineer, Analytical, committed, persistent individual and realiable team member, continuosly learning and acquiring new knowledge and skills, experiance in building different project using a wide range of technologies, performing well in different environments in onshore and distributed teams.
