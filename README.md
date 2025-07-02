@@ -41,5 +41,5 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Fahmi Journey</h3></summary>
-   I'm DevSecOps engineer, Analytical, committed, persistent individual and realiable team member, continuosly learning and acquiring new knowledge and skills, experiance in building different project using a wide range of technologies, performing well in different environments in onshore and distributed teams.
+ <summary><h3>👨‍💻 About Fahmi Fiqih</h3></summary>
+   DevSecOps Engineer with 4+ years of experience, passionate about building secure, scalable, and automated systems. Adept at working in both onshore and distributed teams, with a strong foundation in CI/CD pipelines, infrastructure as code, and security integration across the software development lifecycle. Always eager to learn and improve through hands-on experience and collaboration.
