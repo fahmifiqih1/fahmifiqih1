@@ -99,5 +99,5 @@ DevSecOps Engineer experienced in cloud infrastructure, CI/CD automation, contai
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:203a43,100:0f2027" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6b7280,100:d1d5db" />
 </div>
