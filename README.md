@@ -66,7 +66,7 @@ DevSecOps Engineer with <strong>4+ years of experience</strong> building <strong
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="40" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/grafana/icon/color/grafana-icon-color.svg" width="40" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/fluentd/icon/color/fluentd-icon-color.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/fluent-bit/icon/color/fluentbit-icon-color.svg" width="40" />
 </div>
 
 ### 💻 Programming & OS
