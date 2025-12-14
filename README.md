@@ -5,7 +5,7 @@
 <!-- =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fahmi%20Fiqih&fontSize=42&fontAlignY=35&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Platform&descAlignY=55&color=0:0f2027,100:203a43&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fahmi%20Fiqih&fontSize=42&fontAlignY=35&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Platform&descAlignY=55&color=0:0f2027,100:203a43&animation=fadeIn" /> -->
   <img 
   src="https://capsule-render.vercel.app/api?type=waving
   &color=0:9ca3af,100:e5e7eb
